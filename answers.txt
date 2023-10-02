@@ -1,2 +1,4 @@
 Q: What is the difference between a merge and a rebase?
 A: Merge resolves a conflict by maintaining both of the edits in the history, creating a nonlinear edit history. On the other hand, rebase will resolve the conflict by adding them onto the master branch as just future linear edits. 
+Q: What is a remote repository?
+A: A remote repository is a place that you can store your project that is non-local, for example on the internet or network.
